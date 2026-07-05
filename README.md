@@ -18,13 +18,5 @@ I’m open to collaborating on:
 - Mobile apps (Flutter / Android)
 - Open-source projects
 - Innovative tech ideas
-
-## 📫 Contact Me
-- Just send me a message here on GitHub 😄  
-- Or reach me through my social profiles
-
-## 😄 Pronouns
-He / Him
-
 ## ⚡ Fun Fact
 Nothing is impossible if you keep learning and never give up 🚀
